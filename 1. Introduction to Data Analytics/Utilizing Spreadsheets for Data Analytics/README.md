@@ -1,4 +1,5 @@
 # AdventureWorks Sales Analysis Project
+* Link to a project: https://docs.google.com/spreadsheets/d/1EPBBHJNqSBVvUv0auBSsW9on88brtP2sBsW3m_T2Sqs/edit?usp=sharing
 
 ## Overview
 This project aims to provide insightful analytics on the AdventureWorks sales data by populating the 'Overview' sheet in the provided spreadsheet. The analysis focuses on delivering key business metrics and trends to aid in strategic decision-making.
