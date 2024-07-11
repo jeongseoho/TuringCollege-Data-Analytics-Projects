@@ -1,7 +1,10 @@
 # Adventureworks 2005 Database SQL Project
+* Link to a project: https://docs.google.com/spreadsheets/d/1GU6oTDTF6J7IAgKtJ4-zai9VVjbQpjeqO91COU_hiCs/edit?usp=sharing
+* You can find my queries on this project in this folder(Sprint3_Project.sql)
 
 ## Overview
-This project involves creating SQL queries to address specific business questions using the Adventureworks 2005 database. It is designed as a mid-way check-in for learning SQL.
+- This project involves creating SQL queries to address specific business questions using the Adventureworks 2005 database.
+- It is designed as a mid-way check-in for learning SQL.
 
 ## Objectives
 * Explore the Adventureworks 2005 database.
