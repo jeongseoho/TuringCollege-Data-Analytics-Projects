@@ -32,14 +32,14 @@ This project involves creating SQL queries to address specific business question
 #### 2.3 Expensive Work Orders
 * Select work orders with actual cost above $300 from January 2004.
 
-## Evaluation Criteria
-- Effort & creativity in finding solutions.
-- Code formatting & readability.
-- Ability to explain the logic behind the code and validate results.
-- General understanding of SQL.
-
 ### 3. Query Validation
 #### 3.1 Fix Colleague's Query (Special Offers)
 * Investigate and correct a query listing orders connected to special offers.
 #### 3.2 Fix Colleague's Query (Vendor Information)
 * Correct and improve readability of a query collecting basic vendor information.
+
+## Evaluation Criteria
+- Effort & creativity in finding solutions.
+- Code formatting & readability.
+- Ability to explain the logic behind the code and validate results.
+- General understanding of SQL.
